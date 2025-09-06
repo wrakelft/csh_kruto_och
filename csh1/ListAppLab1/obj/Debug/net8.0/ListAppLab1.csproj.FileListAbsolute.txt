@@ -1,0 +1,14 @@
+C:\Users\gleb\OneDrive\Рабочий стол\csh1\ListAppLab1\obj\Debug\net8.0\ListAppLab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gleb\OneDrive\Рабочий стол\csh1\ListAppLab1\obj\Debug\net8.0\ListAppLab1.AssemblyInfoInputs.cache
+C:\Users\gleb\OneDrive\Рабочий стол\csh1\ListAppLab1\obj\Debug\net8.0\ListAppLab1.AssemblyInfo.cs
+C:\Users\gleb\OneDrive\Рабочий стол\csh1\ListAppLab1\obj\Debug\net8.0\ListAppLab1.csproj.CoreCompileInputs.cache
+C:\Users\gleb\OneDrive\Рабочий стол\csh1\ListAppLab1\bin\Debug\net8.0\ListAppLab1.exe
+C:\Users\gleb\OneDrive\Рабочий стол\csh1\ListAppLab1\bin\Debug\net8.0\ListAppLab1.deps.json
+C:\Users\gleb\OneDrive\Рабочий стол\csh1\ListAppLab1\bin\Debug\net8.0\ListAppLab1.runtimeconfig.json
+C:\Users\gleb\OneDrive\Рабочий стол\csh1\ListAppLab1\bin\Debug\net8.0\ListAppLab1.dll
+C:\Users\gleb\OneDrive\Рабочий стол\csh1\ListAppLab1\bin\Debug\net8.0\ListAppLab1.pdb
+C:\Users\gleb\OneDrive\Рабочий стол\csh1\ListAppLab1\obj\Debug\net8.0\ListAppLab1.dll
+C:\Users\gleb\OneDrive\Рабочий стол\csh1\ListAppLab1\obj\Debug\net8.0\refint\ListAppLab1.dll
+C:\Users\gleb\OneDrive\Рабочий стол\csh1\ListAppLab1\obj\Debug\net8.0\ListAppLab1.pdb
+C:\Users\gleb\OneDrive\Рабочий стол\csh1\ListAppLab1\obj\Debug\net8.0\ListAppLab1.genruntimeconfig.cache
+C:\Users\gleb\OneDrive\Рабочий стол\csh1\ListAppLab1\obj\Debug\net8.0\ref\ListAppLab1.dll
