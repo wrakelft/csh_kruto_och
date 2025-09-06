@@ -57,6 +57,7 @@ dotnet run
 
 ```csharp
     "DefaultConnection": "Host=localhost;Database=contactsdb;Username=имя_пользователя;Password=пароль"
+```
 
 ## Как юзать??????
 
