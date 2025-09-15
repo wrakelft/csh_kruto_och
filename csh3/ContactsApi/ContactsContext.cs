@@ -12,7 +12,7 @@ public class ContactsContext : DbContext
         {
             entity.ToTable("contacts"); // таблица в нижнем регистре
             entity.HasKey(e => e.Id).HasName("id");
-            entity.Property(e => e.Id).HasColumnName("id");
+            entity.Property(e => e.Id).HasColumnName("id").ValueGeneratedOnAdd();
             entity.Property(e => e.Name).HasColumnName("name");
             entity.Property(e => e.Surname).HasColumnName("surname");
             entity.Property(e => e.Phone).HasColumnName("phone");
